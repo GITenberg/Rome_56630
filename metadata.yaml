@@ -1,0 +1,25 @@
+_repo: Rome_56630
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fowler, W. Warde (William Warde)
+    aliases:
+    - Fowler, Warde
+    - Fowler, William Warde
+    birthdate: 1847
+    deathdate: 1921
+    gutenberg_agent_id: '3907'
+    url: http://www.gutenberg.org/2009/agents/3907
+description: ''
+gutenberg_issued: '2018-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rome
+url: http://www.gutenberg.org/ebooks/56630
